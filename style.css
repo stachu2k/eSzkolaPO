@@ -1,0 +1,67 @@
+html {
+	height: 100%;
+}
+
+body {
+	margin: 5px;
+	background-color: #D7D7D7;
+	font-size: small;
+	font-family: Arial, Helvetica, sans-serif;
+	height: calc(100% - 10px);
+}
+
+#container {
+	width: 900px;
+	margin: 0 auto;
+	padding: 5px;
+	border: 1px solid #A3A3A3;
+	background-color: #FFFFFF;
+	min-height: calc(100% - 10px - 14px);
+}
+
+#content {
+	min-height: 100%;
+}
+
+footer {
+	width: 900px;
+	margin: 0 auto;
+	font-size: x-small;
+	color: #666;
+	text-align: center;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.logo_title {
+	padding-top: 20px;
+	text-align: center;
+	font-size: x-large;
+	font-weight: bold;
+}
+
+.logo_subtitle {
+	text-align: center;
+	font-size: 14px;
+	font-style: italic;
+}
+
+.login {
+	margin: 50px auto;
+	padding: 50px;
+	width: 500px;
+	background-color: #E1EEF0;
+	border-radius: 40px;
+	border: 1px solid #BDD2D5;
+}
+
+.login h1 {
+	margin: 0 0 15px;
+	padding: 0;
+}
