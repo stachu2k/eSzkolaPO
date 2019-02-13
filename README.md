@@ -1,2 +1,2 @@
 # eSzkolaPO
-Taki tam system zarzadzania dla szkol.
+Projekt internetowego dziennika zajeć dla szkół na zaliczenie.
